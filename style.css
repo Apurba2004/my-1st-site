@@ -22,3 +22,30 @@ section {
   border-radius: 10px;
   color: azure;
 }
+
+section{
+  display: flex;
+}
+.new3 img{
+padding-top: 10%;
+padding-left: 5%;
+
+}
+.new3{
+ font-size: x-large;
+  width: 50%;
+  padding-right: 5%;
+  padding-top: 10%;
+}
+#i{
+  color: crimson;
+}
+#j{
+  color: rgb(18, 32, 151);
+}
+#k{
+  color: rgb(18, 220, 122);
+}
+#l{
+  color: rgb(246, 21, 145);
+}
